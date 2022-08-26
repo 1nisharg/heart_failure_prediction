@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisharg N</h1>
 <h3 align="center">A passionate PROGRAMMER from India</h3>
-<img align= "right" alt="coding" width="400" src="https://drive.google.com/file/d/1jV-KDMw2XBtD5-Dib3LjEpB4ZikK39pT/view?usp=sharing">
+<img align= "right" alt="coding" width="400" src="https://unsplash.com/photos/dYEuFB8KQJk">
 - 🌱 I’m currently learning **WEB DEVELOPMENT and OTHER LANGUAGES simultaneously.**
 
 - I am very passionate about [programming and making new things .](programming and making new things .)
