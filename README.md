@@ -5,7 +5,7 @@
 
 - I am very passionate about programming and making new things.
 
-- 💬 Ask me about **web development and c++**
+- 💬 Ask me about **web development and c++ , python**
 
 - 📫 How to reach me **nisarg.nargund@gmail.com**
 
